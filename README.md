@@ -5,8 +5,8 @@ A smart device to monitor child location and ensure safety using RF Module, GPS,
 
 
 
-For Query: 
+For Query:  
 Sheyum Hossain  
-Electronics and Communication Engineering, Khulna University.
-Email: seyumhossain@gmail.com 
+Electronics and Communication Engineering, Khulna University.  
+Email: seyumhossain@gmail.com    
 LinkedIn: https://www.linkedin.com/in/sheyum-hossain-7682511b9/
